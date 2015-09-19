@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NAVIGATIONBAR_BAR_BUTTON_COLOR</key>
+	<string>FFFFFF</string>
+	<key>TAB_SELECTED_COLOR</key>
+	<string>FF6A00</string>
+	<key>TAB_NORMAL_COLOR</key>
+	<string>000000</string>
+	<key>COMMON_DARK_GRAY_COLOR</key>
+	<string>222222</string>
+	<key>COMMON_SELECTION_TABLE_SEPERATOR_COLOR</key>
+	<string>414141</string>
+	<key>VIEW_COMMON_BG_COLOR</key>
+	<string>222222</string>
+	<key>COMMON_LIGHT_GRAY_COLOR</key>
+	<string>3D3D3D</string>
+	<key>COMMON_YELLOW_COLOR</key>
+	<string>F99D1D</string>
+	<key>COMMON_TEXTFIELD_BG_COLOR</key>
+	<string>393939</string>
+	<key>NAVIGATIONBAR_BAR_TINT_COLOR</key>
+	<string>000000</string>
+</dict>
+</plist>
